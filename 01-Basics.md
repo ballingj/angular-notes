@@ -1,6 +1,6 @@
 
 ### Generating a new project
-![[generating_new_project.png]]
+![[images/generating_new_project.png]]
 ### Starting an Angular project
 ![[starting_project.png]]
 
